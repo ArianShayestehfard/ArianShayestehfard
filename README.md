@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Arian ShayestehFard
 
-<!--
-**ArianShayestehfard/ArianShayestehfard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at the University of Zanjan with a passion for software development and its various subfields, including IT and Artificial Intelligence.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,java,python)](https://skillicons.dev)
+
+### Frameworks & Tools
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+## 📚 Currently Learning
+
+- Advanced Python
+- Spring Boot (Backend Development)
+- Web Development (HTML, CSS, JavaScript)
+- Database Management (SQL)
+
+## 💡 Interests
+
+- Artificial Intelligence
+- Information Technology
+- Backend Development
+
+
+⭐️ Feel free to explore my repositories and follow my journey!
