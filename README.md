@@ -19,7 +19,7 @@ I'm a Computer Engineering student at the University of Zanjan with a passion fo
 
 - Advanced Python
 - Spring Boot (Backend Development)
-- Web Development (HTML, CSS, JavaScript)
+- Web Development (JavaScript)
 - Database Management (SQL)
 
 ## 💡 Interests
