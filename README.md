@@ -7,6 +7,9 @@ I'm a Computer Engineering student at the University of Zanjan with a passion fo
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=c,java,python)](https://skillicons.dev)
 
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+
 ### Frameworks & Tools
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
