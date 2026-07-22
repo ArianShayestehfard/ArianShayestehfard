@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a **Computer Engineering student at the University of Zanjan**, with a passion for software development and exploring different areas of technology.
 
