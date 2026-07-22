@@ -20,7 +20,7 @@ I'm a **Computer Engineering student at the University of Zanjan**, with a passi
 
 Currently, I'm focused on strengthening my programming fundamentals and learning backend development with **Java, Spring Boot, and SQL** through hands-on projects.
 
-🎯 Currently looking for: internship / junior backend opportunities where I can apply and grow my skills.
+🎯 Currently looking for: internship / junior opportunities where I can apply and grow my skills.
 
 ---
 
