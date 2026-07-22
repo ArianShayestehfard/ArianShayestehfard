@@ -70,12 +70,8 @@ Final project for the Advanced Programming course — a full implementation of t
 📊 GitHub Stats
 <p align="center"> <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ArianShayestehfard&show_icons=true&theme=tokyonight&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&hide_border=true&bg_color=00000000&count_private=true&hide_rank=true" alt="Arian's GitHub statistics" /> <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ArianShayestehfard&layout=compact&theme=tokyonight&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&hide_border=true&bg_color=00000000&langs_count=8" alt="Arian's most used programming languages" /> </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArianShayestehfard&bg_color=00000000&color=58A6FF&line=3FB950&point=C9D1D9&area=true&hide_border=true" alt="Arian's GitHub contribution activity graph" />
-</p>
-
+📈 Contribution Graph
+<p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArianShayestehfard&theme=react-dark&hide_border=true&bg_color=00000000" alt="Arian's GitHub contribution activity graph" /> </p>
 ---
 
 <p align="center">
