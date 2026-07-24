@@ -68,7 +68,7 @@ Final project for the Advanced Programming course — a full implementation of t
 ---
 
 📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ArianShayestehfard&show_icons=true&theme=react&hide_border=true&bg_color=00000000&count_private=true&hide_rank=true" alt="Arian's GitHub statistics" /> <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ArianShayestehfard&layout=compact&theme=react&hide_border=true&bg_color=00000000&langs_count=8" alt="Arian's most used programming languages" /> </p>
+<p align="center"> <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ArianShayestehfard&show_icons=true&theme=react&hide_border=true&bg_color=00000000&count_private=true&hide_rank=true" alt="Arian's GitHub statistics" /> <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ArianShayestehfard&layout=compact&theme=react&hide_border=true&bg_color=00000000&langs_count=8&size_weight=0.5&count_weight=0.5&cache_seconds=21600" alt="Arian's most used programming languages" /> </p>
 📈 Contribution Graph
 <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArianShayestehfard&theme=react-dark&hide_border=true&bg_color=00000000" alt="Arian's GitHub contribution activity graph" /> </p>
 ---
