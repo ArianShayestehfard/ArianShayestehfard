@@ -63,7 +63,7 @@ Performance comparison of Standard, Divide & Conquer, and Strassen matrix multip
 
 [Snake and Ladder Game](https://github.com/ArianShayestehfard/Snake-Ladder-Game)
 
-Final project for the Advanced Programming course — a full implementation of the Snake and Ladder game in Java with a graphical UI built using JavaFX. Java JavaFX OOP Game Logi
+Final project for the Advanced Programming course — a full implementation of the Snake and Ladder game in Java with a graphical UI built using JavaFX. Java JavaFX OOP Game Logic
 
 ---
 
