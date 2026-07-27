@@ -75,7 +75,7 @@ Final project for the Advanced Programming course — a full implementation of t
 </p>
 📈 Contribution Graph
 <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArianShayestehfard&theme=react-dark&hide_border=true&bg_color=00000000" alt="Arian's GitHub contribution activity graph" /> </p>
----
+
 
 <p align="center">
   ⭐️ Feel free to explore my repositories and follow my journey!
