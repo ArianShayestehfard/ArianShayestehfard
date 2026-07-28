@@ -45,9 +45,9 @@ Currently, I'm focused on strengthening my programming fundamentals and learning
 
 ## 📚 Currently Learning
 
-- ☕ Java & Spring Boot — Backend Development
-- 🗄️ SQL & Database Management
 - 🐍 Advanced Python
+- 🗄️ SQL & Database Management
+- ☕ Java & Spring Boot — Backend Development
 
 ---
 
