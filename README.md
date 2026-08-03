@@ -57,7 +57,7 @@ Currently, I'm focused on strengthening my programming fundamentals and learning
 
 Comparison of TF-IDF, Word2Vec, and Gemma-2B embeddings for Persian text semantic similarity, with SVD dimensionality reduction. Python NLP Linear Algebra
 
-✖️[Matrix Multiplication Algorithms Comparison](https://github.com/ArianShayestehfard/Matrix-Multiplication-Algorithms-Comparison)
+🧮[Matrix Multiplication Algorithms Comparison](https://github.com/ArianShayestehfard/Matrix-Multiplication-Algorithms-Comparison)
 
 Performance comparison of Standard, Divide & Conquer, and Strassen matrix multiplication algorithms. Python Algorithm Design
 
