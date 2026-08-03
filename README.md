@@ -53,15 +53,15 @@ Currently, I'm focused on strengthening my programming fundamentals and learning
 
 ## 📌 Featured Projects
 
-[Persian Text Embedding Comparison](https://github.com/ArianShayestehfard/Persian-Text-Embedding-Comparison-TFIDF-Word2Vec-Gemma)
+📃[Persian Text Embedding Comparison](https://github.com/ArianShayestehfard/Persian-Text-Embedding-Comparison-TFIDF-Word2Vec-Gemma)
 
 Comparison of TF-IDF, Word2Vec, and Gemma-2B embeddings for Persian text semantic similarity, with SVD dimensionality reduction. Python NLP Linear Algebra
 
-[Matrix Multiplication Algorithms Comparison](https://github.com/ArianShayestehfard/Matrix-Multiplication-Algorithms-Comparison)
+✖️[Matrix Multiplication Algorithms Comparison](https://github.com/ArianShayestehfard/Matrix-Multiplication-Algorithms-Comparison)
 
 Performance comparison of Standard, Divide & Conquer, and Strassen matrix multiplication algorithms. Python Algorithm Design
 
-[Snake and Ladder Game](https://github.com/ArianShayestehfard/Snake-Ladder-Game)
+🎲[Snake and Ladder Game](https://github.com/ArianShayestehfard/Snake-Ladder-Game)
 
 Final project for the Advanced Programming course — a full implementation of the Snake and Ladder game in Java with a graphical UI built using JavaFX. Java JavaFX OOP Game Logic
 
