@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=900&height=50&lines=Backend+Developer+in+the+making;Exploring+AI+%26+Machine+Learning;Open+to+new+opportunities" alt="Typing animation showing Arian's current focus areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=900&height=50&lines=Backend+Developer+in+the+making;Exploring+AI+%26+Machine+Learning;Building+Data-Driven+Projects;Open+to+new+opportunities" alt="Typing animation showing Arian's current focus areas" />
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 ## About Me
 
-I'm a **Computer Engineering student at the University of Zanjan**, with a passion for software development and exploring different areas of technology.
+I'm a **Computer Engineering student at the University of Zanjan**, passionate about software development, backend engineering, and building data-driven applications.
 
-Currently, I'm focused on strengthening my programming fundamentals and learning backend development with **Java, Spring Boot, and SQL** through hands-on projects.
+Currently, I'm focused on developing my skills in **Java, Spring Boot, Python, SQL, and databases** through hands-on projects, while exploring **AI and machine learning**.
 
-🎯 Currently looking for: internship / junior opportunities where I can apply and grow my skills.
+🎯 Currently looking for: internship / junior opportunities where I can apply my skills, contribute to real-world projects, and continue growing as a software developer.
 
 ---
 
@@ -32,50 +32,58 @@ Currently, I'm focused on strengthening my programming fundamentals and learning
 
 ### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres)](https://skillicons.dev)
 
 ### Tools & Technologies
 
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge\&logo=java\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
 ---
 
 ## 📚 Currently Learning
 
-- 🐍 Advanced Python
-- 🗄️ SQL & Database Management
-- ☕ Java & Spring Boot — Backend Development
+* ☕ Java & Spring Boot — Backend Development
+* 🐍 Advanced Python & Backend Development
+* 🗄️ SQL & Relational Database Design
+* 🤖 Machine Learning & Data Analysis
 
 ---
 
 ## 📌 Featured Projects
 
-📃[Persian Text Embedding Comparison](https://github.com/ArianShayestehfard/Persian-Text-Embedding-Comparison-TFIDF-Word2Vec-Gemma)
+🎬 [**Watchlist Decision Engine**](https://github.com/ArianShayestehfard/Watchlist-Decision-Engine)
 
-Comparison of TF-IDF, Word2Vec, and Gemma-2B embeddings for Persian text semantic similarity, with SVD dimensionality reduction. Python NLP Linear Algebra
+A movie decision-support system that analyzes movie metadata, ratings, watch history, and user preferences to generate personalized recommendations using **TF-IDF and cosine similarity**. Python SQLite OMDb API Recommendation System
 
-🧮[Matrix Multiplication Algorithms Comparison](https://github.com/ArianShayestehfard/Matrix-Multiplication-Algorithms-Comparison)
+📃 [**Persian Text Embedding Comparison**](https://github.com/ArianShayestehfard/Persian-Text-Embedding-Comparison-TFIDF-Word2Vec-Gemma)
 
-Performance comparison of Standard, Divide & Conquer, and Strassen matrix multiplication algorithms. Python Algorithm Design
+Comparison of **TF-IDF, Word2Vec, and Gemma-2B embeddings** for Persian text semantic similarity, with SVD dimensionality reduction. Python NLP Linear Algebra
 
-🎲[Snake and Ladder Game](https://github.com/ArianShayestehfard/Snake-Ladder-Game)
+🎲 [**Snake and Ladder Game**](https://github.com/ArianShayestehfard/Snake-Ladder-Game)
 
-Final project for the Advanced Programming course — a full implementation of the Snake and Ladder game in Java with a graphical UI built using JavaFX. Java JavaFX OOP Game Logic
+Final project for the Advanced Programming course — a full implementation of the Snake and Ladder game in **Java with a graphical UI built using JavaFX**. Java JavaFX OOP Game Logic
 
 ---
 
 📊 GitHub Stats
+
 <p align="center">
   <img height="165" src="https://github-readme-stats-beta-blue-42.vercel.app/api?username=ArianShayestehfard&show_icons=true&theme=react&hide_border=true&bg_color=00000000&count_private=true&hide_rank=true" alt="Arian's GitHub statistics" />
 
   <img height="165" src="https://github-readme-stats-beta-blue-42.vercel.app/api/top-langs/?username=ArianShayestehfard&layout=compact&theme=react&hide_border=true&bg_color=00000000&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Arian's most used programming languages" />
 </p>
-📈 Contribution Graph
-<p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArianShayestehfard&theme=react-dark&hide_border=true&bg_color=00000000" alt="Arian's GitHub contribution activity graph" /> </p>
 
+📈 Contribution Graph
+
+<p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArianShayestehfard&theme=react-dark&hide_border=true&bg_color=00000000" alt="Arian's GitHub contribution activity graph" /> </p>
 
 <p align="center">
   ⭐️ Feel free to explore my repositories and follow my journey!
