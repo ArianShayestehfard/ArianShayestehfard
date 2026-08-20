@@ -32,7 +32,7 @@ Currently, I'm focused on developing my skills in **Java, Spring Boot, Python, S
 
 ### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
 
 ### Tools & Technologies
 
