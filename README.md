@@ -36,15 +36,15 @@ Currently, I'm focused on developing my skills in **Java, Spring Boot, Python, S
 
 ### Tools & Technologies
 
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge\&logo=java\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -54,6 +54,34 @@ Currently, I'm focused on developing my skills in **Java, Spring Boot, Python, S
 * 🐍 Advanced Python & Backend Development
 * 🗄️ SQL & Relational Database Design
 * 🤖 Machine Learning & Data Analysis
+
+---
+
+## 🏅 Certifications
+
+<p align="center">
+  <a href="https://oaiacademy.credential.net/1322ac17-fb78-4ae0-9e7c-20d7a503730c#acc.OGRN5gXc">
+    <img src="https://api.accredible.com/v1/credentials/pn33nxwc/artifact/badge" width="110" alt="Agents and Workflows official badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://oaiacademy.credential.net/1322ac17-fb78-4ae0-9e7c-20d7a503730c#acc.OGRN5gXc">
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&customColorList=6,12,19&text=Agents%20and%20Workflows&fontAlignY=40&desc=OpenAI%20Academy&descAlignY=68&fontColor=fff&fontSize=32&descSize=16&fontFamily=Georgia&fontWeight=900" alt="Agents and Workflows by OpenAI Academy" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Directing AI agents through structured work — providing context, defining outputs,<br />setting boundaries, reviewing drafts, and improving reusable workflows.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Issued-Oct_2026-6C63FF?style=for-the-badge" alt="Issued Oct 2026" />
+  <img src="https://img.shields.io/badge/Valid_until-Apr_2027-4F46E5?style=for-the-badge" alt="Valid until Apr 2027" />
+  <a href="https://oaiacademy.credential.net/1322ac17-fb78-4ae0-9e7c-20d7a503730c#acc.OGRN5gXc">
+    <img src="https://img.shields.io/badge/Verify_Credential-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Verify credential" />
+  </a>
+</p>
 
 ---
 
@@ -91,5 +119,6 @@ Final project for the Advanced Programming course — a full implementation of t
   />
 </p>
 
+<p align="center">
   ⭐️ Feel free to explore my repositories and follow my journey!
 </p>
