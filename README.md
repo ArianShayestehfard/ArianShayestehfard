@@ -87,17 +87,20 @@ Currently, I'm focused on developing my skills in **Java, Spring Boot, Python, S
 
 ## 📌 Featured Projects
 
+🏎️ [**F1 Race Strategy Decision System**](https://github.com/ArianShayestehfard/F1-Race-Strategy-Decision-System)
+
+A three-tier decision-support system for Formula 1 pit strategy: a **FastAPI** engine calibrates lap-time models on real race data, searches 1/2/3-stop plans, simulates 20-car races, and recommends pit stops — served through a **Spring Boot** backend with **SQLite** persistence and a web dashboard. Python FastAPI Spring Boot SQLite Machine Learning
+
+🏛️ [**Arvin — Real Estate Manager**](https://github.com/ArianShayestehfard/Arvin-Real-Estate-Manager)
+
+A production-grade, fully offline Windows desktop CRM built for a real estate agency, featuring a Persian RTL interface, Jalali/Hijri dual-calendar scheduling, advanced search, and a custom responsive UI engine. Python PySide6 SQLite Desktop App
+
 🎬 [**Watchlist Decision Engine**](https://github.com/ArianShayestehfard/Watchlist-Decision-Engine)
 
 A movie decision-support system that analyzes movie metadata, ratings, watch history, and user preferences to generate personalized recommendations using **TF-IDF and cosine similarity**. Python SQLite OMDb API Recommendation System
 
 📃 [**Persian Text Embedding Comparison**](https://github.com/ArianShayestehfard/Persian-Text-Embedding-Comparison-TFIDF-Word2Vec-Gemma)
-
 Comparison of **TF-IDF, Word2Vec, and Gemma-2B embeddings** for Persian text semantic similarity, with SVD dimensionality reduction. Python NLP Linear Algebra
-
-🎲 [**Snake and Ladder Game**](https://github.com/ArianShayestehfard/Snake-Ladder-Game)
-
-Final project for the Advanced Programming course — a full implementation of the Snake and Ladder game in **Java with a graphical UI built using JavaFX**. Java JavaFX OOP Game Logic
 
 ---
 
