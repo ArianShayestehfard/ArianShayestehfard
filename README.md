@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,12,19&text=Hi%2C%20I'm%20Arian&fontAlignY=42&desc=Computer%20Engineering%20Student&descAlignY=65&fontColor=fff&animation=twinkling&fontSize=45&descSize=20&fontFamily=Georgia&fontWeight=900" alt="Waving banner with the text Hi, I'm Arian, Computer Engineering Student" />
+  <img src="api.svg" alt="Waving banner with the text Hi, I'm Arian, Computer Engineering Student" />
 </p>
 
 <p align="center">
@@ -38,6 +38,7 @@ Currently, I'm focused on developing my skills in **Java, Spring Boot, Python, S
 
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -100,6 +101,7 @@ A production-grade, fully offline Windows desktop CRM built for a real estate ag
 A movie decision-support system that analyzes movie metadata, ratings, watch history, and user preferences to generate personalized recommendations using **TF-IDF and cosine similarity**. Python SQLite OMDb API Recommendation System
 
 📃 [**Persian Text Embedding Comparison**](https://github.com/ArianShayestehfard/Persian-Text-Embedding-Comparison-TFIDF-Word2Vec-Gemma)
+
 Comparison of **TF-IDF, Word2Vec, and Gemma-2B embeddings** for Persian text semantic similarity, with SVD dimensionality reduction. Python NLP Linear Algebra
 
 ---
