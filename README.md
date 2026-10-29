@@ -92,6 +92,10 @@ Currently, I'm focused on developing my skills in **Java, Spring Boot, Python, S
 
 A three-tier decision-support system for Formula 1 pit strategy: a **FastAPI** engine calibrates lap-time models on real race data, searches 1/2/3-stop plans, simulates 20-car races, and recommends pit stops — served through a **Spring Boot** backend with **SQLite** persistence and a web dashboard. Python FastAPI Spring Boot SQLite Machine Learning
 
+*Selected for the [XERJ Corpus Hub](https://hub.xerj.org/corpus/arianshayestehfard--f1-race-strategy-decision-system), an open reference library that AI coding agents search for worked examples.*
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/ArianShayestehfard/badge.svg)](https://hub.xerj.org/contributors/ArianShayestehfard)
+
 🏛️ [**Arvin — Real Estate Manager**](https://github.com/ArianShayestehfard/Arvin-Real-Estate-Manager)
 
 A production-grade, fully offline Windows desktop CRM built for a real estate agency, featuring a Persian RTL interface, Jalali/Hijri dual-calendar scheduling, advanced search, and a custom responsive UI engine. Python PySide6 SQLite Desktop App
