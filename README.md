@@ -62,7 +62,11 @@ Currently, I'm focused on developing my skills in **Java, Spring Boot, Python, S
 ## 🏅 Certifications & Credentials
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=6,12,19" width="100%" alt="" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FC00FF,100:00DBDE"
+    width="100%"
+    alt=""
+  />
 </p>
 
 <table>
