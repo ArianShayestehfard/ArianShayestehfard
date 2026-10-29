@@ -58,33 +58,65 @@ Currently, I'm focused on developing my skills in **Java, Spring Boot, Python, S
 
 ---
 
-## 🏅 Certifications
+
+## 🏅 Certifications & Credentials
 
 <p align="center">
-  <a href="https://oaiacademy.credential.net/1322ac17-fb78-4ae0-9e7c-20d7a503730c#acc.OGRN5gXc">
-    <img src="https://api.accredible.com/v1/credentials/pn33nxwc/artifact/badge" width="110" alt="Agents and Workflows official badge" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=6,12,19" width="100%" alt="" />
 </p>
 
-<p align="center">
-  <a href="https://oaiacademy.credential.net/1322ac17-fb78-4ae0-9e7c-20d7a503730c#acc.OGRN5gXc">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&customColorList=6,12,19&text=Agents%20and%20Workflows&fontAlignY=40&desc=OpenAI%20Academy&descAlignY=68&fontColor=fff&fontSize=32&descSize=16&fontFamily=Georgia&fontWeight=900" alt="Agents and Workflows by OpenAI Academy" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Directing AI agents through structured work — providing context, defining outputs,<br />setting boundaries, reviewing drafts, and improving reusable workflows.</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Issued-Oct_2026-6C63FF?style=for-the-badge" alt="Issued Oct 2026" />
-  <img src="https://img.shields.io/badge/Valid_until-Apr_2027-4F46E5?style=for-the-badge" alt="Valid until Apr 2027" />
-  <a href="https://oaiacademy.credential.net/1322ac17-fb78-4ae0-9e7c-20d7a503730c#acc.OGRN5gXc">
-    <img src="https://img.shields.io/badge/Verify_Credential-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Verify credential" />
-  </a>
-</p>
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <table>
+        <tr>
+          <td width="78" align="center" valign="middle">
+            <a href="https://oaiacademy.credential.net/1322ac17-fb78-4ae0-9e7c-20d7a503730c#acc.Np8OCcQb">
+              <img src="https://api.accredible.com/v1/credentials/pn33nxwc/artifact/badge" width="68" alt="Agents and Workflows badge" />
+            </a>
+          </td>
+          <td valign="middle">
+            <strong>Agents and Workflows</strong>
+            <br />
+            <sub>OpenAI Academy</sub>
+          </td>
+        </tr>
+      </table>
+      <p>Directing AI agents through structured workflows, defining outputs, setting boundaries, and reviewing results.</p>
+      <a href="https://oaiacademy.credential.net/1322ac17-fb78-4ae0-9e7c-20d7a503730c#acc.Np8OCcQb">
+        <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-6C63FF?style=flat-square&logo=openai&logoColor=white" alt="Verify credential" />
+      </a>
+      <br /><br />
+      <sub>Issued Oct 19, 2026</sub>
+      <br />
+      <sub>Valid until Apr 19, 2027</sub>
+    </td>
+    <td width="50%" valign="top">
+      <table>
+        <tr>
+          <td width="78" align="center" valign="middle">
+            <a href="https://oaiacademy.credential.net/1717c786-5e39-47ed-b480-30d7a92a0f77#acc.jQ0eZ2nK">
+              <img src="https://api.accredible.com/v1/credentials/u35y09lc/artifact/badge" width="68" alt="Applied AI Foundations badge" />
+            </a>
+          </td>
+          <td valign="middle">
+            <strong>Applied AI Foundations</strong>
+            <br />
+            <sub>OpenAI Academy</sub>
+          </td>
+        </tr>
+      </table>
+      <p>Turning recurring tasks into repeatable workflows and integrating review points into AI-assisted work.</p>
+      <a href="https://oaiacademy.credential.net/1717c786-5e39-47ed-b480-30d7a92a0f77#acc.jQ0eZ2nK">
+        <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-6C63FF?style=flat-square&logo=openai&logoColor=white" alt="Verify credential" />
+      </a>
+      <br /><br />
+      <sub>Issued Oct 29, 2026</sub>
+      <br />
+      <sub>Valid until Apr 29, 2027</sub>
+    </td>
+  </tr>
+</table>
 
 ## 📌 Featured Projects
 
